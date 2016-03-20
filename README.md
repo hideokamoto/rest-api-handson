@@ -231,3 +231,6 @@ http://example.com/wp/v2/media
 - postsのAPIから記事を取得
 - コメント欄が解放されている記事（comment_status == 'open'）かを判定
 - コメントできる記事だけselectタグにoptionとして追加
+
+##「物足りねぇぞ！」という方はこちら
+https://github.com/hideokamoto/rest-api-handson/blob/master/advanced.md
