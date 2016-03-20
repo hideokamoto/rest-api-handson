@@ -47,8 +47,12 @@ GET以外は認証が必要なものが多いですので要注意です。
 - [API Reference(English)](http://v2.wp-api.org/reference/)
 
 ##jQueryでWP REST APIのデータを処理してみる
-[ベースにするページはこちら（CodePen）](http://codepen.io/hideokamoto/pen/VapPaq?editors=1010 )
+##事前準備
+- [ローカル環境のWP REST APIを使う場合はこのhtmlファイルを雛形にしてください](https://github.com/hideokamoto/rest-api-handson/blob/master/sample.html)
+- [公開されているページを使う場合こちら（CodePen）](http://codepen.io/hideokamoto/pen/VapPaq?editors=1010 )  
 「Fork」をクリックして自分用のコピーを作ってから作業開始。
+
+ 
 ###jQueryでAjax通信するテンプレート
 Ajaxを使ったことがないという方向けに、とりあえずのコードサンプルです。
 
