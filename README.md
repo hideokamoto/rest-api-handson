@@ -26,7 +26,7 @@
 - WP APIは２年以上更新されてないので使わないこと
 
 ##APIコンソールを使ってリクエストを投げてみる
-zipファイルURL:https://github.com/hideokamoto/rest-api-console/archive/master.zip
+zipファイルURL:http://bit.ly/1RmBxvW
 *アップデートしないので、使い続ける場合は[本家リポジトリ](https://github.com/WP-API/rest-api-console)か[公式ディレクトリ](https://wordpress.org/plugins/rest-api-console/)のを修正して使うことをお勧めします。
 
 WP REST APIプラグインの入れたサイトにインストールして有効化すれば使えます。
