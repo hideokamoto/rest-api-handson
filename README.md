@@ -95,7 +95,7 @@ WordPressのコアに組み込まれている数少ないREST API。
 記事URLを貼り付けるとブログカードが表示されるoEmbed機能を動かすためのAPI
 
 ###アドレスの作り方
-http://example.com/oembed/1.0/embed?http://example.com/embed-blog-posts
+http://example.com/wp-json/oembed/1.0/embed?http://example.com/embed-blog-posts
 embed?以降に埋め込みたい記事のURLを入れる
 
 ##戻り値サンプル
